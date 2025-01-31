@@ -15,7 +15,7 @@ from langchain_core.runnables.history import RunnableWithMessageHistory
 from langchain_community.chat_message_histories import SQLChatMessageHistory
 from langchain_community.cache import SQLiteCache  # Updated import
 from langchain_ollama import OllamaLLM, OllamaEmbeddings
-
+from sqlalchemy import create_engine
 from flask import session
 import os
 import sqlite3
@@ -71,7 +71,6 @@ qa_prompt = ChatPromptTemplate.from_messages(
 # Initialize chat history
 chat_history = []
 
-from sqlalchemy import create_engine
 
 def get_session_history(session_id) -> BaseChatMessageHistory:
     engine = create_engine(f"sqlite:///{DB_path}")  # ✅ Correct SQLAlchemy connection
