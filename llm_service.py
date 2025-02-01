@@ -32,10 +32,10 @@ set_llm_cache(SQLiteCache(database_path=DB_path))
 
 
 # Define the LLM model
-llm = OllamaLLM(model="llama3.2:latest",base_url="http://localhost:11434")
+llm = OllamaLLM(model="llama3.2:3b",base_url="http://localhost:11434")
 
 # Define the embedding model for retrieval
-ollama_emb = OllamaEmbeddings(model="llama3.2")
+ollama_emb = OllamaEmbeddings(model="llama3.2:3b")
 
 # Store for session management
 store = {}
@@ -130,7 +130,7 @@ def get_response(question, content, session_id):
 
 if __name__ =="__main__":
     session_id = "user_123"
-    content = "Python is a programming language. It is widely used for data science, web development, and more."
-    question = "What is Python used for?"
+    content = "-"
+    question = input("Enter the Questions:")
     response = get_response(question, content, session_id)
     print("Answer:", response)

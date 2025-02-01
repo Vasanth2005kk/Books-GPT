@@ -1,0 +1,90 @@
+VASANTHAVEL K
+
+Phone : 8220921078
+Mail : vasanth2005kk@gmail.com
+GitHub : https://github.com/Vasanth2005kk
+Linkedin : linkedin.com/in/vasanth-k-b88336311
+Wordpress:https://wordpress.com/home/
+vasanth2005kk.wordpress.com
+
+PROFILE
+Motivated web developer with a strong foundation in web technologies and a
+growing expertise in AI technologies. Passionate about leveraging artificial
+intelligence to solve complex problems and create innovative, data-driven
+solutions. Eager to collaborate with forward-thinking teams, continuously enhance
+skills in AI frameworks, and drive impactful results in dynamic environments.
+
+SKILLS
+●  PYTHON
+●  Fromworks(Flask,django)
+●  AI / ML
+●  FRONT END & BACK END
+●  SQL
+●  MONGO DB
+●  BASH
+●  DOCKER
+●  XECEL
+●  GIT & GITHUB
+●  FIGMA
+●  LUNIX USER
+●  Basic Knowledge(C,C++)
+
+
+
+EXPERIENCE
+● IT Developer Collaboration Work
+● Hackathon Participation - Project (Wiki GPT)
+● Taught Village Kids - Education and Open Source Software
+● Volunteer at VGLUG (Villupuram GNU/Linux Users Group)
+● Attended International-Level Pycon India in Hyderabad
+
+PROJECT
+1. Chat-With-Wiki-Page ( AI project )
+2. Text-To-Speech-converter ( TTS )
+3. CSV File To Multiple Charts ( Streamlit )
+4. Firefox and Chrome Extensions (YouTube Downloader,SpotWikiEdit,SimpleGPT)
+5. Web Scraping ( I Will Collect All The Data )
+6. Current Working Projects (Audio Book,Predicting Loan Default MindsDB)
+
+EDUCATION
+SSLC
+Danish Mission Hr Sec School Parikkal – kallakurichi
+2019-2020
+HSC
+Don Bosco Higher Secondary School Gedilam, – kallakurichi
+2021-2022
+
+LANGUAGE
+● TAMIL
+● ENGLISH
+
+CERTIFICATES
+● Training
+program
+AI/ML with Python at
+VGLUG in the period of
+2023 – 2024
+● Panmuga Thiranarithal Online
+Competition 2021–2022
+(NEWS7)
+
+ACHIEVEMENTS
+● Contributed babylon js in
+SFD(Software Freedom
+Day VGLUG)
+
+● B.sc CS (Bachelor of Science in Computer Science - Pursuing)
+Government Arts and Science Collage, Thiruvemmainallur
+Annamalai University –– 2021-2025
+
+● Golden star achievement
+
+INTERNSHIP
+
+● Internship provided by Sagasoft Company (Project -- Mindsdb)
+
+in Hackerrank(python).
+92 Problems Solved In
+Leetcode
+
+
